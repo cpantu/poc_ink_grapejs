@@ -183,31 +183,31 @@ document.addEventListener('DOMContentLoaded', () => {
                         </div>
                     `
                 },
-                {
-                    id: 'contact-form',
-                    label: 'Formulario de Contacto',
-                    category: 'Real Estate',
-                    content: `
-                        <form style="max-width: 500px; margin: 20px auto; padding: 20px; border: 1px solid #ddd; border-radius: 8px;">
-                            <h3 style="text-align: center; margin-bottom: 20px;">Contactar</h3>
-                            <div style="margin-bottom: 15px;">
-                                <input type="text" placeholder="Nombre" style="width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px;">
-                            </div>
-                            <div style="margin-bottom: 15px;">
-                                <input type="email" placeholder="Email" style="width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px;">
-                            </div>
-                            <div style="margin-bottom: 15px;">
-                                <input type="tel" placeholder="Teléfono" style="width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px;">
-                            </div>
-                            <div style="margin-bottom: 15px;">
-                                <textarea placeholder="Mensaje" style="width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px; min-height: 100px;"></textarea>
-                            </div>
-                            <button type="submit" style="background: #4CAF50; color: white; border: none; padding: 10px 20px; border-radius: 4px; cursor: pointer; width: 100%;">
-                                Enviar Mensaje
-                            </button>
-                        </form>
-                    `
-                }
+                // {
+                //     id: 'contact-form',
+                //     label: 'Formulario de Contacto',
+                //     category: 'Real Estate',
+                //     content: `
+                //         <form style="max-width: 500px; margin: 20px auto; padding: 20px; border: 1px solid #ddd; border-radius: 8px;">
+                //             <h3 style="text-align: center; margin-bottom: 20px;">Contactar</h3>
+                //             <div style="margin-bottom: 15px;">
+                //                 <input type="text" placeholder="Nombre" style="width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px;">
+                //             </div>
+                //             <div style="margin-bottom: 15px;">
+                //                 <input type="email" placeholder="Email" style="width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px;">
+                //             </div>
+                //             <div style="margin-bottom: 15px;">
+                //                 <input type="tel" placeholder="Teléfono" style="width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px;">
+                //             </div>
+                //             <div style="margin-bottom: 15px;">
+                //                 <textarea placeholder="Mensaje" style="width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px; min-height: 100px;"></textarea>
+                //             </div>
+                //             <button type="submit" style="background: #4CAF50; color: white; border: none; padding: 10px 20px; border-radius: 4px; cursor: pointer; width: 100%;">
+                //                 Enviar Mensaje
+                //             </button>
+                //         </form>
+                //     `
+                // }
             ]
         },
         // Canvas configuration
